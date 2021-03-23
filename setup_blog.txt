@@ -1,0 +1,9 @@
+1. 'npm install'
+2. 'yarn install'
+3. 'npm start' w terminalu w folderze 'zarzucamy-sieci-blog-files'
+4. komenda 'npm install -g @sanity/cli' (w osobnym okienku terminala)
+5. komenda 'sanity start' w terminalu w folderze 'zarzucamy-sanity'
+
+w razie problemów: sanity setup --> https://www.youtube.com/watch?list=PLRzQpWc3zNPnmQgTZdTR-sCvYfj5Uil6s&v=D8xaQxhJHlg&feature=emb_logo
+
+manage.sanity.io
